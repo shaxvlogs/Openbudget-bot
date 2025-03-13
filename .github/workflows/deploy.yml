@@ -29,4 +29,4 @@ jobs:
       run: |
         curl -X POST \
         -H "Authorization: Bearer $KOYEB_API_TOKEN" \
-        https://app.koyeb.com/v1/services/{SERVICE_ID}/deployments
+        https://app.koyeb.com/v1/services/bizarre-sybila-dasturchi-edcb870b/deployments
